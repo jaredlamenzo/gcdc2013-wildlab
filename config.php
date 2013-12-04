@@ -19,10 +19,10 @@
 // TODO: You must configure these fields for the starter project to function.
 // Visit https://developers.google.com/glass/getting-started to learn more
 
-//https://cloud.google.com/console?redirected=true#/project/apps~wildlabglass/apiui/app/WEB/91469454054-nd2tbk1lfhnjti4rbhgljulv0m0orcir.apps.googleusercontent.com
-$api_client_id = "91469454054-nd2tbk1lfhnjti4rbhgljulv0m0orcir.apps.googleusercontent.com";
-$api_client_secret = "o_Vfjx6LcIbCJDi3hGbCr3H7";
-$api_simple_key = "AIzaSyCp81hY26Dy0nQ79267MSCyythKEv57elY";
+//https://cloud.google.com/console?redirected=true#/project/apps~gcdc2013-wildlab/apiui/app/WEB/262253778225.apps.googleusercontent.com
+$api_client_id = "262253778225.apps.googleusercontent.com";
+$api_client_secret = "rjTHVfgpDy9dwIo3bhGwSJmr";
+$api_simple_key = "AIzaSyAZZoC8M5niPdHzU75mEI5jd8FNIrai0vA";
 
 $base_url = "https://gcdc2013-wildlab.appspot.com";
 
